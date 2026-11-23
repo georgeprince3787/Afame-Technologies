@@ -109,8 +109,8 @@ Notebooks are analytical documents, not deployed applications. GitHub hosting do
 
 A separate Streamlit application may use the validated cleaned CSV files, but it should not replace the notebooks as the complete analysis. To deploy it later, add `streamlit` to `requirements.txt`, create `app.py`, test it locally with `streamlit run app.py`, and then deploy it to Streamlit Community Cloud from the public GitHub repository.
 
-## Author
-
-**Student:** [Add your name]  
-**GitHub:** [Add your GitHub URL]  
-**LinkedIn:** [Add your LinkedIn URL]
+## Author and Project Information
+**Student:** [George Prince]  
+**Organization:** AFAME Technologies  
+**LinkedIn:** [[LinkedIn URL](https://www.linkedin.com/in/georgeprince3787/)]  
+**GitHub:** [[GitHub URL](https://github.com/georgeprince3787)]
